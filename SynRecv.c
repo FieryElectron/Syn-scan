@@ -1,4 +1,3 @@
-//file name: net-print.c
 //https://www.kernel.org/
 
 #include <linux/kernel.h>

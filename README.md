@@ -16,6 +16,6 @@ Port scanning by sending SYN package and receiving ACK package.
 
 ## Remove modules from kernel
 
-    rmod SynRecv
+    rmmod SynRecv
 
 <img src="Animation.gif" width="1000" height="200" />
